@@ -8,11 +8,8 @@ header:
   title: Truebred Labradors
   has_nav: true
 footer:
-  content: "&copy; Stackbit-Exto. All rights reserved."
-  links:
-  - text: Made with Stackbit
-    url: https://www.stackbit.com
-    new_window: true
+  content: "&copy; Truebred Labradors"
+  links: []
   has_social: true
 sass:
   indentWidth: 4
