@@ -1,6 +1,11 @@
 {
   "links": [
     {
+      "title": "Pinterest",
+      "icon": "fa-pinterest",
+      "url": "https://www.pinterest.com.au/truebredlabs/"
+    },
+    {
       "title": "Youtube",
       "icon": "fa-youtube",
       "url": "https://www.youtube.com/user/truebredlabradorpups"
