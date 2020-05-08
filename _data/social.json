@@ -1,19 +1,15 @@
 {
   "links": [
     {
-      "title": "Pinterest",
-      "icon": "fa-pinterest",
-      "url": "https://www.pinterest.com.au/truebredlabs/"
-    },
-    {
-      "title": "Youtube",
-      "icon": "fa-youtube",
-      "url": "https://www.youtube.com/user/truebredlabradorpups"
-    },
-    {
       "title": "Facebook",
       "icon": "fa-facebook",
       "url": "https://www.facebook.com/labrador.puppies.for.sales/"
+    },
+    {
+      "type": "instagram",
+      "title": "Instagram",
+      "icon": "fa-instagram",
+      "url": "https://www.instagram.com/Truebred/"
     },
     {
       "type": "twitter",
@@ -22,10 +18,14 @@
       "url": "https://twitter.com/labradorpups"
     },
     {
-      "type": "instagram",
-      "title": "Instagram",
-      "icon": "fa-instagram",
-      "url": "https://www.instagram.com/Truebred/"
+      "title": "Pinterest",
+      "icon": "fa-pinterest",
+      "url": "https://www.pinterest.com.au/truebredlabs/"
+    },
+    {
+      "title": "Youtube",
+      "icon": "fa-youtube",
+      "url": "https://www.youtube.com/user/truebredlabradorpups"
     }
   ]
 }
