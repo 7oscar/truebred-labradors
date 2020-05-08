@@ -1,8 +1,8 @@
 ---
-title: Blog
-menus:
-  main:
-    title: Blog
-    weight: 3
+title: Blog of Truebred Labradors
 layout: blog
+menu:
+  main:
+    weight: 3
+
 ---
