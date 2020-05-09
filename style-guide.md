@@ -8,6 +8,7 @@ menu:
     weight: 3
 
 ---
+![Labrador breeders NSW Australia are happy](https://res.cloudinary.com/truebred/image/upload/q_auto,f_auto/v1516590950/happy-couple-with-yellow-labrador-retriever-lite2.jpg)  
 Hello and welcome to Truebred Labradors **Labrador breeders NSW Australia** webpage.
 
 Truebred Labradors are **registered Labrador breeders** in NSW Australia. They are members of _Dogs NSW_ and the _Australian National Kennel Council (ANKC)_.
@@ -39,6 +40,8 @@ We also offer a a customer satisfaction guarantee so that if within 3 days the p
 We hope that you [enjoy these Labrador Puppy photos.](https://labradors.id.au/labrador-puppy-photos-2017/ "labrador puppy photos")
 
 ### CURRENT LABRADOR PUPPIES
+
+![Our Lab puppies](https://res.cloudinary.com/truebred/image/upload/v1568732086/black-and-yellow-labrador-puppies-head500.jpg)
 
 Our [Labrador Puppy Update page](https://labradors.id.au/puppy-update/ "labrador puppy update page") will normally have details of puppies available, and our next litter is expected. We try and post updates often.
 
