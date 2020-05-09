@@ -38,13 +38,13 @@ We also offer a a customer satisfaction guarantee so that if within 3 days the p
 
 We hope that you [enjoy these Labrador Puppy photos.](https://labradors.id.au/labrador-puppy-photos-2017/ "labrador puppy photos")
 
-### Current Labrador Puppies
+### CURRENT LABRADOR PUPPIES
 
 Our [Labrador Puppy Update page](https://labradors.id.au/puppy-update/ "labrador puppy update page") will normally have details of puppies available, and our next litter is expected. We try and post updates often.
 
 Most of our Labrador puppies go to their new families in the Sydney, Newcastle, and Central Coast regions, with some going to the Mid North Coast and Far North coast regions. Some pups also go to homes throughout NSW and also interstate. Transport can be arranged if desired. This can include by road and/or by air. More details, including costs, for example, are available on our [Labrador puppies for sale NSW page.](https://labradors.id.au/labrador-puppies-for-sale-in-nsw-australia/ "labrador puppies for sale nsw australia")
 
-There are a few Labrador health problems that are at higher risk with some puppies or from some breeders. Our puppy parents or breeding stock are tested and screened for various possible hereditary or genetic health issues. These include (for example) hip dysplasia, elbow dysplasia, Exercise Induced Collapse (EIC), Hereditary Nasal Parakeratosis (HNPK),and Progressive Retinal Atrophy (PRA). By ensuring that at least one parent is reported as being CLEAR for the conditions tested by DNA (i.e. EIC, HNPK, and EIC), I can then be assured that no puppies will be affected by any of the conditions.
+    There are a few Labrador health problems that are at higher risk with some puppies or from some breeders. Our puppy parents or breeding stock are tested and screened for various possible hereditary or genetic health issues. These include (for example) hip dysplasia, elbow dysplasia, Exercise Induced Collapse (EIC), Hereditary Nasal Parakeratosis (HNPK),and Progressive Retinal Atrophy (PRA). By ensuring that at least one parent is reported as being CLEAR for the conditions tested by DNA (i.e. EIC, HNPK, and EIC), I can then be assured that no puppies will be affected by any of the conditions.
 
 More details about [How to buy good Labrador puppy in Australia are here](https://labradors.id.au/how-to-buy-a-good-labrador-puppy-in-australia/ "How to buy good Labrador puppy in Australia").
 
